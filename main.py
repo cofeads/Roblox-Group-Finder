@@ -44,7 +44,7 @@ ____ _ _  _ ___  ____ ____
 """)
 
 #your webhook
-hook = input("[-] Enter your webhook url: ")
+hook = input("https://discord.com/api/webhooks/1358530401831747726/chOGIHL1ZcTsZtSvsPskjCosyMhe2D2r5aCQX5VA7dc5dzAEEf8DbXPsRpJpkAe_kPYo")
 #number of threads
 threads = int(input("[-] How many threads: "))
 
